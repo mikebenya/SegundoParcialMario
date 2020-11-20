@@ -1,0 +1,612 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 788,
+      "max": [
+        0.0018947139615193009,
+        -0.0072373352013528347,
+        0.0071994303725659847
+      ],
+      "min": [
+        0.0013906833482906222,
+        -0.0078072655014693737,
+        0.0064251958392560482
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9456,
+      "componentType": 5126,
+      "count": 788,
+      "max": [
+        0.0099657066166400909,
+        0.0099363140761852264,
+        0.0099526159465312958
+      ],
+      "min": [
+        -0.0099985441192984581,
+        -0.0099823819473385811,
+        -0.0098574031144380569
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 788,
+      "max": [
+        0.99893903732299805,
+        0.9991302490234375,
+        0.99451309442520142,
+        1
+      ],
+      "min": [
+        -0.99952006340026855,
+        -0.98138284683227539,
+        -0.99961340427398682,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3576,
+      "max": [
+        787
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18912,
+      "componentType": 5126,
+      "count": 1184,
+      "max": [
+        0.0018989833770319819,
+        -0.0068460614420473576,
+        0.0073824278078973293
+      ],
+      "min": [
+        0.00097756530158221722,
+        -0.0078705120831727982,
+        0.0063354894518852234
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33120,
+      "componentType": 5126,
+      "count": 1184,
+      "max": [
+        0.0099984686821699142,
+        0.0098312655463814735,
+        0.0099733630195260048
+      ],
+      "min": [
+        -0.0098405899479985237,
+        -0.0099972784519195557,
+        -0.0099859647452831268
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12608,
+      "componentType": 5126,
+      "count": 1184,
+      "max": [
+        0.98783236742019653,
+        0.99902051687240601,
+        0.97745060920715332,
+        1
+      ],
+      "min": [
+        -0.99932277202606201,
+        -0.99413830041885376,
+        -0.97852975130081177,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 14304,
+      "componentType": 5125,
+      "count": 6102,
+      "max": [
+        1183
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47328,
+      "componentType": 5126,
+      "count": 7045,
+      "max": [
+        0.0058606355451047421,
+        0.0074574714526534081,
+        0.0096483128145337105
+      ],
+      "min": [
+        -0.0059197917580604553,
+        -0.0098130432888865471,
+        -0.00011225385969737545
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 131868,
+      "componentType": 5126,
+      "count": 7045,
+      "max": [
+        0.0099913515150547028,
+        0.0099899368360638618,
+        0.009996430017054081
+      ],
+      "min": [
+        -0.0099832648411393166,
+        -0.0099985729902982712,
+        -0.0099968835711479187
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 31552,
+      "componentType": 5126,
+      "count": 7045,
+      "max": [
+        0.99992138147354126,
+        0.99898147583007812,
+        0.99868893623352051,
+        1
+      ],
+      "min": [
+        -0.99997830390930176,
+        -0.99985009431838989,
+        -0.999686598777771,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7045,
+      "max": [
+        0.99773609638214111,
+        0.95274996757507324
+      ],
+      "min": [
+        0.0088264942169189453,
+        0.0045462027192115784
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38712,
+      "componentType": 5125,
+      "count": 37536,
+      "max": [
+        7044
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Paolofix21 (https://sketchfab.com/Paolofix21)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/3707e2dd6f5d4d91ac05a46b6de15eef",
+      "title": "Proto Xenomorph (Deacon Alien)"
+    },
+    "generator": "Sketchfab-3.19.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 188856,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 56360,
+      "byteOffset": 188856,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 216408,
+      "byteOffset": 245216,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144272,
+      "byteOffset": 461624,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64,
+      "byteOffset": 605896,
+      "byteStride": 64,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 605960,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/ProtoXenomorf_baseColor.png"
+    },
+    {
+      "uri": "textures/ProtoXenomorf_normal.png"
+    },
+    {
+      "uri": "textures/ProtoXenomorf_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "name": "Teeth",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.12554694620000001,
+          0.12554694620000001,
+          0.12554694620000001,
+          1
+        ],
+        "metallicFactor": 0.65000000000000002,
+        "roughnessFactor": 0.16000000000000003
+      }
+    },
+    {
+      "doubleSided": false,
+      "name": "Skin",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0.050000000000000003,
+        "roughnessFactor": 0.71999999999999997
+      }
+    },
+    {
+      "doubleSided": false,
+      "name": "ProtoXenomorf",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 2,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.31000000000000005
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "ProtoXenomorph.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -1.6292067939183141e-05,
+        -99.999999999998678,
+        0,
+        0,
+        99.999999999998678,
+        -1.6292067939183141e-05,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "ProtoXenomorphRIG"
+    },
+    {
+      "children": [
+        6,
+        7,
+        10
+      ],
+      "name": ""
+    },
+    {
+      "name": "_rootJoint"
+    },
+    {
+      "children": [
+        8,
+        9
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        99.999999999999986,
+        1.6292067073209186e-05,
+        0,
+        0,
+        -1.6292067073209186e-05,
+        99.999999999999986,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        99.999999999999986,
+        1.6292067073209186e-05,
+        0,
+        0,
+        -1.6292067073209186e-05,
+        99.999999999999986,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 13,
+      "joints": [
+        6
+      ],
+      "skeleton": 6
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
